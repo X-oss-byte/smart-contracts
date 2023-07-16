@@ -23,7 +23,7 @@
     "@openzeppelin/contracts": "^2.5.1",
     "@openzeppelin/contracts-v4": "npm:@openzeppelin/contracts@^4.7.3",
     "dotenv": "^8.6.0",
-    "ethereum-cryptography": "^1.0.1",
+    "ethereum-cryptography": "^1.2.0",
     "ethereumjs-util": "^7.0.1",
     "ethers": "^5.7.1",
     "hardhat-ignore-warnings": "^0.2.8",
