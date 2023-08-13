@@ -29,7 +29,7 @@
     "hardhat-ignore-warnings": "^0.2.8",
     "merkletreejs": "^0.2.32",
     "node-fetch": "^2.6.7",
-    "solmate": "^6.6.1",
+    "solmate": "^6.7.0",
     "workerpool": "^6.2.0"
   },
   "devDependencies": {
